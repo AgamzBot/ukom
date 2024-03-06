@@ -1,0 +1,9 @@
+Algoritma Orang Tua
+
+1. Mulai
+2. Masuk halaman login
+3. Login dengan user yang sudah dibuat
+4. Orang tua dapat melihat data guru
+5. Orang tua dapat melihat data siwa
+6. Logout
+7. Selesai

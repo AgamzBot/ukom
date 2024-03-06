@@ -1,0 +1,10 @@
+Algoritma Login
+
+1. Mulai
+2. Masuk halaman login
+3. Masukan email yang teregistrasi di halaman register
+4. Masukan password yang teregistrasi di halaman register
+5. Klik Submit
+6. Jika benar akan ke halaman selanjutnya
+7. Jika salah akan mengsi login ulang
+8. Selesai

@@ -1,0 +1,12 @@
+Algoritma Admin Sekolah
+
+1. Mulai
+2. Masuk halaman login
+3. Login sesuai dengan data yg sudah terdaftar di administrator
+4. Jika berhasil lanjut halaman berikutnya
+5. Masuk halaman beranda
+6. Admin sekolah dapat mengubah data guru / update data guru
+7. Admin sekolah dapat melihat data siswa
+8. Admin sekolah dapat mengubah generate laporan / maintenance
+9. Logout
+10. Selesai

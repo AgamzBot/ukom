@@ -1,0 +1,10 @@
+Algoritma Register
+
+1. Mulai
+2. Masuk halaman register
+3. Masukan email yang ingin di register
+4. Masukan username yang ingin di register
+5. Masukan password
+6. Klik register
+7. Jika berhasil masuk ke halaman login
+8. Selesai

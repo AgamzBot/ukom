@@ -1,0 +1,8 @@
+Algoritma IT / Administrator
+
+1. Registrasi
+2. Login
+3. Masuk halaman utama
+4. Maintenance/perbaikan dan menambahkan data guru
+5. Maintenance/perbaikan data siswa
+6. Maintenance/perbaikan laporan 

@@ -1,0 +1,11 @@
+Algoritma Guru 
+
+1. Mulai
+2. Masuk halaman login
+3. Masukan username dan password masukan data yang udah ada di administrator
+4. Masuk beranda
+5. Guru dapat mengedit/menginput data guru
+6. Guru dapat mengedit/menginput data siswa
+7. Guru dapat generate laporan dan update laporan
+8. logout
+9. Selesai

@@ -1,0 +1,10 @@
+Algoritma Staff Admin
+
+1. Masuk ke halaman login
+2. Login yang terdaftar di Administrator
+3. Jika sudah login
+4. Masuk halaman beranda
+5. Staff dapat melihat data guru
+6. Staff dapat melihat data siswa
+7. Siswa dapat melihat generate  laporan
+8. Selesai

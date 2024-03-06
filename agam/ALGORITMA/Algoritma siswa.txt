@@ -1,0 +1,9 @@
+Algoritma Siswa
+
+1. Mulai
+2. Masuk halaman login
+3. Login sesuai yang sudah akun yang dibikin administrator
+4. Jika berhasil login maka akan masuk ke halaman beranda
+5. Masuk halaman beranda
+6. Siswa dapat menginput/menambahkan dan update data siswa
+7. Siwa dapat melihat data guru dan melihat generate laporan
